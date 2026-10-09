@@ -2,3 +2,4 @@ Capitol 1: Introducció a Git
 Capitol 2: Flux de treball basic
 Capitol 3: Gestio de branques
 Capitol 4: Repositoris remots
+Capítol 5: Conceptes avançats
